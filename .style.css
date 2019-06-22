@@ -1,0 +1,52 @@
+/**
+ * Layout HomeWork Activity
+ **/
+body {
+header 
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: arial, "helvetica neue", helvetica, sans-serif;
+    font-size: 20px;
+    box-sizing: 960px;
+    color: #777;
+    
+}
+nav {
+    width= 100px
+    background: #ebebeb;
+    border= #0
+    
+}
+section {
+    background: #ebebeb;
+
+}
+article { 
+    color: #ebebeb;
+    background: #777; 
+
+}
+h1 {
+    background: #ebebeb;
+    color: #777; 
+
+}
+h2 {
+    background: 
+}
+h3 {
+    background: 
+}
+p {
+    background: #ebebeb;
+    color: #777; 
+}
+aside {
+    background: #ebebeb;
+}
+footer {
+    background: #ebebeb;
+}
+}
